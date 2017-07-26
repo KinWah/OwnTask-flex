@@ -93,7 +93,7 @@ main .content{
     display: flex;
     width: 100%;
     height: 1.64rem;
-    background: url("images/背景图.png") no-repeat;
+    background: url("images/background.png") no-repeat;
     background-size: cover;
     color: white;
     align-items: center;
@@ -116,7 +116,7 @@ main .content{
 .address{
     margin: 0.05rem;
     padding-left:0.15rem;
-    background: url("images/坐标@0.5x.png") no-repeat left center;
+    background: url("images/location.png") no-repeat left center;
     background-size: auto;
 }
 .list{
@@ -152,7 +152,7 @@ main .content{
     padding:0 0 0 0.1rem;
 }
 .li1-1,.li1-2{
-    background:url("images/星星.png") no-repeat  left center;
+    background:url("images/star.png") no-repeat  left center;
     background-size: auto;
     padding:0 0.1rem;
     text-indent:0.1rem ;
