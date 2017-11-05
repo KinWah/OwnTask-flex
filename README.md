@@ -1,4 +1,4 @@
-# 修真院-task5
+# flex布局自适应尝试
 
 本次任务，作品展示:[Demo](http://kinWah.wang/task5)<br/>
 这次任务，用了比较多的是flex属性。<br/>
